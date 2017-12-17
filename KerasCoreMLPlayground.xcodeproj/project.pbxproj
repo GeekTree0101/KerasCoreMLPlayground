@@ -1,0 +1,112 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXFileReference section */
+		9BC12C2A1FE66A0B00E1FEE7 /* KerasCoreMLPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = KerasCoreMLPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		9BC12C221FE669EE00E1FEE7 = {
+			isa = PBXGroup;
+			children = (
+				9BC12C2B1FE66A1F00E1FEE7 /* CoreMLModels */,
+				9BC12C2A1FE66A0B00E1FEE7 /* KerasCoreMLPlayground.playground */,
+				9BC12C291FE669FC00E1FEE7 /* Source */,
+			);
+			sourceTree = "<group>";
+		};
+		9BC12C291FE669FC00E1FEE7 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				9BC12C2E1FE66A4F00E1FEE7 /* models */,
+				9BC12C2D1FE66A4900E1FEE7 /* controllers */,
+				9BC12C2C1FE66A4500E1FEE7 /* views */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
+		9BC12C2B1FE66A1F00E1FEE7 /* CoreMLModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = CoreMLModels;
+			sourceTree = "<group>";
+		};
+		9BC12C2C1FE66A4500E1FEE7 /* views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		9BC12C2D1FE66A4900E1FEE7 /* controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = controllers;
+			sourceTree = "<group>";
+		};
+		9BC12C2E1FE66A4F00E1FEE7 /* models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = models;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		9BC12C231FE669EE00E1FEE7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0910;
+			};
+			buildConfigurationList = 9BC12C261FE669EE00E1FEE7 /* Build configuration list for PBXProject "KerasCoreMLPlayground" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 9BC12C221FE669EE00E1FEE7;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		9BC12C271FE669EE00E1FEE7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		9BC12C281FE669EE00E1FEE7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9BC12C261FE669EE00E1FEE7 /* Build configuration list for PBXProject "KerasCoreMLPlayground" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9BC12C271FE669EE00E1FEE7 /* Debug */,
+				9BC12C281FE669EE00E1FEE7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9BC12C231FE669EE00E1FEE7 /* Project object */;
+}
